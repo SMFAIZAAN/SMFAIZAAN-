@@ -10,9 +10,9 @@ organizational growth while staying updated with emerging trends.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/smfaizaan/home](https://sites.google.com/view/smfaizaan/home)
 
-- 💬 Ask me about **Python,MySQL,DBMS,Excel,Google Sheets**
+- 💬 Ask me about **Python, MySQL, Excel, and Power BI**
 
-- 📫 How to reach me **shaikhmdfaizaan@gmail.com Or '8709840321'**
+- 📫 How to reach me **shaikhmdfaizaan@gmail.com Or '+971 502832090'**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19pKGVsr7QB47w2KIb3FdHU-6s9-akGwN/view?usp=sharing](https://drive.google.com/file/d/19pKGVsr7QB47w2KIb3FdHU-6s9-akGwN/view?usp=sharing)
 
